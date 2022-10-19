@@ -15,6 +15,8 @@ npm install emoji-picker-react
 ```
 ## we used to chase train tracks and hoes 
 
+other than that there were ..
+
 ## Usage:
 
 ```jsx

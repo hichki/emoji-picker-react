@@ -13,7 +13,7 @@ An emoji picker component for React applications.
 ```
 npm install emoji-picker-react
 ```
-## we used to chase train tracks 
+## we used to chase train tracks and hoes 
 
 ## Usage:
 

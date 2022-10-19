@@ -263,3 +263,5 @@ For reference, if you only need to shim global, you can add
   window.global = window;
 </script>
 ```
+
+## it is a useless piece of shit

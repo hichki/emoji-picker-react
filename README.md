@@ -263,3 +263,7 @@ For reference, if you only need to shim global, you can add
   window.global = window;
 </script>
 ```
+
+## What to know before using
+
+- This package assumes it runs in the browser. I have taken many steps to prevent it from failing on the server, but still, it is recommended to only render the component on the client. See troubleshooting section for more information.

@@ -2,6 +2,8 @@
 
 ![Picker](https://user-images.githubusercontent.com/11255103/192167134-8205eb89-a71d-4463-8f3a-940e844917d5.gif)
 
+emoji-picker-react
+
 An emoji picker component for React applications.
 
 ## What to know before using

@@ -253,6 +253,11 @@ const Picker = dynamic(
   { ssr: false }
 );
 ```
+## sticker.ly
+ to To avoid errors such as "document is not defined" on the server side, you should make sure the library is only imported on the client side. Here is how to do that:
+
+```javascript
+import dynamic from 'next/dynamic';
 
 ## Vite
 
